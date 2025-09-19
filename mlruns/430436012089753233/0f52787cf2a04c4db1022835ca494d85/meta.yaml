@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Campusx/MLflow-Track/mlruns/430436012089753233/0f52787cf2a04c4db1022835ca494d85/artifacts
+end_time: 1758270696950
+entry_point_name: ''
+experiment_id: '430436012089753233'
+lifecycle_stage: active
+run_id: 0f52787cf2a04c4db1022835ca494d85
+run_name: bedecked-panda-636
+run_uuid: 0f52787cf2a04c4db1022835ca494d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758270691681
+status: 3
+tags: []
+user_id: bipra

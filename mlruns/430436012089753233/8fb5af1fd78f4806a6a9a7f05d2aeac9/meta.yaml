@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Campusx/MLflow-Track/mlruns/430436012089753233/8fb5af1fd78f4806a6a9a7f05d2aeac9/artifacts
+end_time: 1758269827386
+entry_point_name: ''
+experiment_id: '430436012089753233'
+lifecycle_stage: active
+run_id: 8fb5af1fd78f4806a6a9a7f05d2aeac9
+run_name: Iris
+run_uuid: 8fb5af1fd78f4806a6a9a7f05d2aeac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758269826942
+status: 3
+tags: []
+user_id: bipra

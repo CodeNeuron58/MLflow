@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Campusx/MLflow-Track/mlruns/430436012089753233/9bff16c340dd44a5b691fc9c0204344d/artifacts
+end_time: 1758269660042
+entry_point_name: ''
+experiment_id: '430436012089753233'
+lifecycle_stage: active
+run_id: 9bff16c340dd44a5b691fc9c0204344d
+run_name: honorable-ram-4
+run_uuid: 9bff16c340dd44a5b691fc9c0204344d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758269659560
+status: 3
+tags: []
+user_id: bipra

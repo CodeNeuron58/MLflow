@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ddd53a88ab6d4ddc8e5974961eee928c/artifacts
+end_time: 1758268422599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddd53a88ab6d4ddc8e5974961eee928c
+run_name: placid-doe-822
+run_uuid: ddd53a88ab6d4ddc8e5974961eee928c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758268422181
+status: 3
+tags: []
+user_id: bipra

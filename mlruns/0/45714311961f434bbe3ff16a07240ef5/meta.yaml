@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/45714311961f434bbe3ff16a07240ef5/artifacts
+end_time: 1758268354535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45714311961f434bbe3ff16a07240ef5
+run_name: valuable-shad-319
+run_uuid: 45714311961f434bbe3ff16a07240ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758268354022
+status: 3
+tags: []
+user_id: bipra
